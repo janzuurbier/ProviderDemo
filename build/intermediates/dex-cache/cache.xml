@@ -2,25 +2,49 @@
 <items version="2" >
 
     <item
-        jar="D:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\JZuurbier\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.1"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="D:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_4228bc740e620e33e2e1cdf0475cafc6c162070c.jar" />
+        <dex dex="C:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_7e9d1daca0fda12b48e70211c24af16e82ab05a0\classes.dex" />
     </item>
     <item
-        jar="D:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.1"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="D:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_9bda677622f02f5659ae2ca3b5cdc33f9d2a4bb7.jar" />
+        sha1="55863f0cbf1bbcf1d20d097bc271185665b6e952">
+        <dex dex="C:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d317a45127a78be8bfc0d1e7510618842fe23ce\classes.dex" />
     </item>
     <item
-        jar="D:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.1"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="D:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_52e48a264e64104d2d3acfb5b0261b030b91eb4f.jar" />
+        <dex dex="C:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_909280dedf48ac6d3f12e547162349b6ae458512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_c02c209c01653e173a8a44008d9c7aba48cd39e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15cdae77d069a9b6a41ced526116271574c37e1d">
+        <dex dex="C:\AndroidstudioProjects\ProviderDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8f6c02f453d83ccb51a1d2803caba311cb7f8818\classes.dex" />
     </item>
 
 </items>

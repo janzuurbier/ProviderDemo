@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 	public static final Uri CONTENT_URI=
-			Uri.parse("content://com.cookbook.app.DiariesProvider/datastorage");
+			Uri.parse("content://zrb.hu.nl.diaries.DiariesProvider/datastorage");
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
